@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/Vorgaben_Blatt02_Aufgabe1_Aufgabe2/Drucker.java" />
+      <file url="file://$PROJECT_DIR$/Vorgaben_Blatt02_Aufgabe1_Aufgabe2/Firma.java" />
+    </excludeFromCompile>
+  </component>
+</project>
